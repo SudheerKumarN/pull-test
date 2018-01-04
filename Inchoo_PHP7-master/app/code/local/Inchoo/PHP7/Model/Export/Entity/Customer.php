@@ -21,4 +21,5 @@ class Inchoo_PHP7_Model_Export_Entity_Customer extends Mage_ImportExport_Model_E
         }
         return $collection;
     }
+	// Mage::log('Test Pull Request');
 }
